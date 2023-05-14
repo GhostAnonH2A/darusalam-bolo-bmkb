@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://darusalam-bolo.bimakab.go.id/assets/css/bo-toto/sitemap.xml
